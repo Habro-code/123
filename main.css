@@ -66,3 +66,9 @@ a {
 .connection a:hover {
   color: rgb(158, 158, 158);
 }
+
+.no {
+  width: 500px;
+  color: red;
+  margin: 500px;
+}
